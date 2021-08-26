@@ -32,7 +32,10 @@
 		["q"=>"Do you wanna hear a knock-knock joke?", "a"=>"Two guys walk into a bar."],
 		["q"=>"I tried to kill a spider with soap?", "a"=>"He got away clean."],
 		["q"=>"What do you call a time traveling bounty hunter?", "a"=>"A ManDelorean!"],
-		["q"=>"What's red and bad for your teeth?", "a"=>"A brick."]
+		["q"=>"What's red and bad for your teeth?", "a"=>"A brick."],
+		["q"=>"What do you call a belt made of watches?", "a"=>"A waist of time!"],
+		["q"=>"What's the best way to carve wood?", "a"=>"Whittle by whittle!"],
+		["q"=>"Why was 6 afraid of 7?", "a"=>"Because 7 was a registered 6 offender!"]
 	];
 	
 	$limit = 2; // the default
