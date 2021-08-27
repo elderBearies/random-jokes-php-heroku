@@ -12,6 +12,7 @@
 	header("Access-Control-Allow-Origin: *");     // turn on CORS
 	header("X-this-330-service-is-kinda-lame: true");   // a custom header - by convention they begin with 'X'
 	header("X-author-name: Ava");
+	header("X-program-used: Git");
 	
 	// $jokes contains our data
 	// this is an indexed array of associative arrays
